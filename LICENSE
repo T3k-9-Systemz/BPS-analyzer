@@ -1,0 +1,315 @@
+T3k_9 Systemz NON-COMMERCIAL ATTRIBUTION LICENSE
+Version 1.1
+Copyright © 2026 Everett Joseph Pulskamp. All rights reserved.
+Project: BPS-analyzer
+Repository: https://github.com/T3k-9-Systemz/BPS-analyzer
+Author / Copyright Holder: Everett Joseph Pulskamp
+GitHub Username: T3k-9-Systemz
+Project / Brand Name: T3k_9 Systemz
+________________________________________
+1. PURPOSE
+This License governs the use, reproduction, modification, distribution, and creation of derivative works based upon the software, hardware designs, documentation, files, artwork, graphics, written material, schematics, PCB designs, CAD files, source code, object code, configuration files, and other original material contained within this repository (collectively, the "Original Material").
+The Original Material is the personal intellectual property of Everett Joseph Pulskamp, operating under the GitHub username T3k-9-Systemz and the brand name T3k_9 Systemz, except where a particular item is expressly identified within the Repository as third-party material, externally licensed material, public-domain material, or material otherwise not owned by the Copyright Holder.
+The purpose of this License is to permit individuals and organizations to study, use, modify, improve, and build upon the Original Material for non-commercial purposes, while preserving the Copyright Holder's ownership, attribution rights, and exclusive right to authorize commercial use.
+________________________________________
+2. COPYRIGHT OWNERSHIP
+Except for Third-Party Material as described in Section 12, all copyright and other intellectual-property rights in and to the Original Material are retained exclusively by Everett Joseph Pulskamp.
+Nothing in this License shall be interpreted as transferring, assigning, selling, abandoning, waiving, or otherwise surrendering ownership of the Original Material.
+The Copyright Holder retains all rights not expressly granted by this License.
+No person or entity receiving the Original Material obtains ownership of the Original Material merely because that person or entity:
+•	downloads it;
+•	copies it;
+•	modifies it;
+•	incorporates it into another project;
+•	creates a derivative work from it;
+•	builds hardware based upon it;
+•	distributes copies of it; or
+•	contributes modifications to it.
+________________________________________
+3. LIMITED LICENSE GRANT
+Subject to strict compliance with all terms and conditions of this License, Everett Joseph Pulskamp grants you a limited, worldwide, non-exclusive, non-transferable, non-sublicensable, royalty-free license to:
+1.	view and study the Original Material;
+2.	privately use the Original Material;
+3.	reproduce the Original Material for permitted non-commercial purposes;
+4.	modify, adapt, translate, improve, or otherwise build upon the Original Material;
+5.	create derivative works based upon the Original Material; and
+6.	share the Original Material and permitted derivative works with others, provided that all requirements of this License are satisfied.
+This License does not grant permission to use the Original Material for Commercial Purposes as defined in Section 4.
+This License grants only the rights expressly stated herein. No implied license or other permission shall arise from the publication, distribution, availability, or accessibility of the Repository.
+________________________________________
+4. STRICT PROHIBITION ON COMMERCIAL USE
+COMMERCIAL USE OF THE ORIGINAL MATERIAL OR ANY DERIVATIVE WORK IS STRICTLY PROHIBITED WITHOUT PRIOR WRITTEN PERMISSION FROM EVERETT JOSEPH PULSKAMP.
+For purposes of this License, "Commercial Purpose" means any use, activity, transaction, distribution, production, service, publication, or other exploitation that is intended to generate, facilitate, obtain, or contribute to monetary compensation, commercial advantage, financial benefit, revenue, profit, business value, or other economic benefit for any person or entity.
+Without limiting the foregoing, Commercial Purposes include:
+•	selling the Original Material or any portion thereof;
+•	selling derivative works based upon the Original Material;
+•	selling products incorporating the Original Material;
+•	manufacturing products based upon the Original Material for sale;
+•	manufacturing, assembling, or distributing hardware based upon the Original Material for sale;
+•	charging money for access to the Original Material or derivative works;
+•	incorporating the Original Material into a commercial product or service;
+•	using the Original Material to provide a paid service;
+•	using the Original Material in connection with a commercial business operation;
+•	licensing, sublicensing, or otherwise monetizing the Original Material;
+•	using the Original Material in paid courses, paid educational materials, or paid training products;
+•	using the Original Material in advertising or promotional material intended to generate revenue;
+•	using the Original Material in a monetized online service;
+•	using the Original Material in a product or service that generates advertising revenue where the Original Material materially contributes to that revenue-generating activity;
+•	using the Original Material to create or support a crowdfunding campaign intended to generate financial returns or commercial production;
+•	using the Original Material to manufacture or sell commercial derivatives;
+•	using the Original Material to obtain investment, funding, sponsorship, or other financial benefit for a commercial venture; or
+•	any substantially similar activity whose purpose or effect is to obtain or facilitate financial or commercial benefit.
+No person or entity may use the Original Material or a Derivative Work as a component of a product, service, business, commercial offering, or revenue-generating activity without prior written authorization from Everett Joseph Pulskamp.
+The fact that a person or organization is a student, nonprofit, educational institution, open-source organization, government entity, or other non-commercial organization does not automatically authorize a use that otherwise constitutes a Commercial Purpose.
+Likewise, the absence of direct payment to the user does not automatically make a use non-commercial if the use contributes materially to a commercial or revenue-generating activity.
+________________________________________
+5. WRITTEN COMMERCIAL PERMISSION
+Everett Joseph Pulskamp may, at his sole discretion, grant written permission for specific Commercial Purposes.
+Any such permission must be:
+1.	provided by Everett Joseph Pulskamp or an authorized representative;
+2.	provided in writing;
+3.	sufficiently specific to identify the permitted material and permitted use; and
+4.	retained by the authorized party as evidence of permission.
+Silence, failure to respond, publication of the Repository, acceptance of contributions, or continued availability of the Original Material shall not constitute permission for Commercial Use.
+Unless expressly stated otherwise in writing, permission for one Commercial Purpose does not constitute permission for any other Commercial Purpose.
+________________________________________
+6. MODIFICATION AND DERIVATIVE WORKS
+You may modify, adapt, improve, redesign, extend, translate, or otherwise build upon the Original Material for permitted non-commercial purposes.
+Any work that is based upon, incorporates, contains, modifies, adapts, or is otherwise derived in whole or in material part from the Original Material is a "Derivative Work" for purposes of this License.
+Derivative Works may contain your own original material.
+However, the existence of your own original contributions does not eliminate or reduce the rights of the Copyright Holder in the Original Material incorporated into the Derivative Work.
+You may not represent the Original Material, or material substantially derived from it, as having been independently created by you.
+________________________________________
+7. MANDATORY ATTRIBUTION
+If you publicly distribute, publish, release, share, display, or otherwise make available the Original Material or a Derivative Work, you must provide clear and reasonably prominent attribution to Everett Joseph Pulskamp and the original T3k_9 Systemz Repository.
+At minimum, the attribution must include:
+•	the name of the original project;
+•	the name of the Copyright Holder;
+•	the GitHub username T3k-9-Systemz;
+•	the T3k_9 Systemz project/brand name;
+•	a link to the original Repository, where technically possible;
+•	a statement identifying the work as being based upon or derived from the Original Material, where applicable; and
+•	a link or reference to this License, where technically possible.
+A substantially compliant attribution should read:
+"Based on [PROJECT NAME] by Everett Joseph Pulskamp / T3k_9 Systemz (GitHub: T3k-9-Systemz). Original Repository: [GITHUB REPOSITORY URL]. Licensed under the T3k_9 Systemz NON-COMMERCIAL ATTRIBUTION LICENSE v1.0."
+If you have modified the Original Material, you must additionally state that modifications were made.
+For example:
+"Based on [PROJECT NAME] by Everett Joseph Pulskamp / T3k_9 Systemz (GitHub: T3k-9-Systemz). Modified by [YOUR NAME]. Original Repository: [GITHUB REPOSITORY URL]. Licensed under the T3k_9 Systemz NON-COMMERCIAL ATTRIBUTION LICENSE v1.0."
+The attribution must not be hidden, misleading, intentionally obscured, or presented in a manner reasonably calculated to cause others to believe that the Original Material was originally created by someone other than Everett Joseph Pulskamp.
+________________________________________
+8. PRESERVATION OF COPYRIGHT AND LICENSE NOTICES
+You may not remove, alter, conceal, or obscure:
+•	copyright notices;
+•	author notices;
+•	license notices;
+•	attribution notices;
+•	repository references;
+•	ownership notices; or
+•	other notices identifying Everett Joseph Pulskamp
+contained within the Original Material, except where modification is technically necessary and the applicable information is reproduced in a reasonably equivalent location.
+If the Original Material contains a LICENSE, LICENSE.md, COPYRIGHT, NOTICE, README, source-code header, CAD documentation, or similar ownership notice, you must preserve the applicable ownership and license information when redistributing the material.
+________________________________________
+9. ATTRIBUTION OF DERIVATIVE PROJECTS
+If you create a project that substantially incorporates or is derived from the Original Material, you must not imply that the entire project was originally created by you.
+You may identify yourself as the author of your modifications, additions, or independently created material.
+However, you must separately identify Everett Joseph Pulskamp / T3k_9 Systemz as the original author of the Original Material and identify T3k-9-Systemz as the original GitHub account associated with the Repository.
+Nothing in this License prevents you from accurately describing your own contributions.
+________________________________________
+10. NO FALSE ENDORSEMENT
+You may not use the name Everett Joseph Pulskamp, the T3k_9 Systemz name, the T3k-9-Systemz GitHub username, trademarks, logos, project branding, or other identifying marks in a manner that falsely suggests that:
+•	Everett Joseph Pulskamp endorses your project;
+•	T3k_9 Systemz sponsors your project;
+•	Everett Joseph Pulskamp is affiliated with your project;
+•	Everett Joseph Pulskamp approved your modifications; or
+•	Everett Joseph Pulskamp is responsible for your Derivative Work.
+Attribution required by this License does not constitute endorsement.
+________________________________________
+11. REDISTRIBUTION
+You may redistribute the Original Material and permitted Derivative Works provided that:
+1.	the redistribution is for a permitted non-commercial purpose;
+2.	this License remains applicable to the Original Material;
+3.	the required copyright and attribution notices are preserved;
+4.	the recipient receives a copy of this License or a clear reference to it;
+5.	the original Repository is identified where reasonably possible;
+6.	you do not impose terms that contradict or eliminate the protections of this License with respect to the Original Material; and
+7.	you do not represent the Original Material as your own original creation.
+You may not sublicense the Original Material under terms that permit Commercial Use.
+________________________________________
+12. THIRD-PARTY MATERIAL
+This License applies only to material owned or controlled by Everett Joseph Pulskamp.
+The Repository may contain software, libraries, code, documentation, fonts, graphics, images, hardware designs, trademarks, data, or other material created or owned by third parties.
+Such material is "Third-Party Material."
+Third-Party Material is not covered by this License to the extent that Everett Joseph Pulskamp does not own the applicable rights.
+Third-Party Material remains subject to its own applicable license, copyright notice, terms of use, or other legal restrictions.
+Nothing in this License grants you rights to Third-Party Material that the Copyright Holder does not possess.
+Where reasonably possible, Third-Party Material should be identified in the Repository and accompanied by its applicable license or attribution requirements.
+You are solely responsible for complying with applicable third-party licenses when using Third-Party Material.
+________________________________________
+13. CONTRIBUTIONS
+Unless a separate written agreement states otherwise, a contribution submitted to the Repository does not transfer ownership of the contributor's original intellectual property to Everett Joseph Pulskamp.
+By submitting a contribution, the contributor represents that they have the legal right to submit that contribution under the applicable contribution terms.
+A contributor retains ownership of their independently created contribution unless otherwise agreed in writing.
+The Copyright Holder's Original Material remains the property of Everett Joseph Pulskamp.
+Contributors may not use the contribution process to claim ownership of pre-existing Original Material belonging to Everett Joseph Pulskamp.
+________________________________________
+14. NO PATENT LICENSE
+This License grants copyright-related permissions only.
+No patent license, patent covenant, patent assignment, or other patent right is granted by this License, whether expressly, implicitly, by estoppel, or otherwise.
+Any patent rights belonging to Everett Joseph Pulskamp remain reserved unless expressly granted in a separate written agreement.
+You are responsible for determining whether your intended use of the Original Material may implicate patent rights owned by third parties.
+________________________________________
+15. TRADEMARKS AND BRANDING
+Nothing in this License grants permission to use the trademarks, service marks, logos, trade names, project names, or other branding belonging to Everett Joseph Pulskamp or T3k_9 Systemz except as reasonably necessary to satisfy the attribution requirements of this License.
+Any trademark rights are reserved.
+Use of the project name for accurate identification of the original project does not, by itself, constitute trademark permission beyond what is necessary for truthful attribution.
+________________________________________
+16. TERMINATION
+This License automatically terminates upon any material violation of its terms.
+Upon termination, you must immediately cease all activities that were authorized solely by this License, including reproduction, distribution, public sharing, and creation or distribution of further Derivative Works, except to the extent that applicable law provides otherwise.
+Termination does not:
+•	eliminate the Copyright Holder's ownership rights;
+•	waive any existing claim or remedy;
+•	release you from liability for violations occurring before termination; or
+•	prevent the Copyright Holder from pursuing any lawful remedy.
+If you cease the violating activity and fully cure the violation within a reasonable period after receiving written notice from Everett Joseph Pulskamp, the Copyright Holder may, but is not required to, reinstate the license.
+Any reinstatement must be expressly provided in writing.
+________________________________________
+17. RESERVATION OF RIGHTS
+All rights not expressly granted under this License are reserved by Everett Joseph Pulskamp.
+Without limiting the foregoing, the Copyright Holder reserves the exclusive right, subject to applicable law, to:
+•	commercially exploit the Original Material;
+•	sell the Original Material;
+•	license the Original Material to third parties;
+•	authorize commercial manufacturing;
+•	authorize commercial distribution;
+•	authorize commercial derivatives;
+•	assign or transfer intellectual-property rights;
+•	create derivative works; and
+•	grant additional permissions or licenses.
+Everett Joseph Pulskamp may independently use, modify, distribute, license, sell, commercialize, or otherwise exploit the Original Material notwithstanding the restrictions placed upon recipients by this License.
+________________________________________
+18. NO WARRANTY
+THE ORIGINAL MATERIAL IS PROVIDED "AS IS" AND "AS AVAILABLE," WITHOUT WARRANTY OF ANY KIND, TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW.
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, THE COPYRIGHT HOLDER DISCLAIMS ALL EXPRESS, IMPLIED, STATUTORY, AND OTHER WARRANTIES, INCLUDING, WITHOUT LIMITATION:
+•	WARRANTIES OF MERCHANTABILITY;
+•	FITNESS FOR A PARTICULAR PURPOSE;
+•	TITLE;
+•	NON-INFRINGEMENT;
+•	ACCURACY;
+•	RELIABILITY;
+•	SECURITY;
+•	AVAILABILITY; AND
+•	SUITABILITY FOR ANY PARTICULAR APPLICATION.
+THE COPYRIGHT HOLDER DOES NOT WARRANT THAT THE ORIGINAL MATERIAL WILL BE ERROR-FREE, SECURE, COMPLETE, ACCURATE, OR FIT FOR ANY PARTICULAR PURPOSE.
+________________________________________
+19. LIMITATION OF LIABILITY
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, EVERETT JOSEPH PULSKAMP SHALL NOT BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, EXEMPLARY, PUNITIVE, OR OTHER DAMAGES ARISING OUT OF OR RELATED TO:
+•	USE OF THE ORIGINAL MATERIAL;
+•	INABILITY TO USE THE ORIGINAL MATERIAL;
+•	MODIFICATION OF THE ORIGINAL MATERIAL;
+•	DERIVATIVE WORKS;
+•	HARDWARE OR PRODUCTS BASED UPON THE ORIGINAL MATERIAL;
+•	SOFTWARE OR SYSTEMS INCORPORATING THE ORIGINAL MATERIAL;
+•	LOSS OF DATA;
+•	LOSS OF PROFITS;
+•	LOSS OF REVENUE;
+•	LOSS OF BUSINESS OPPORTUNITY;
+•	PROPERTY DAMAGE;
+•	PERSONAL INJURY; OR
+•	ANY OTHER CLAIM ARISING FROM THE USE OR MISUSE OF THE ORIGINAL MATERIAL,
+EXCEPT TO THE EXTENT SUCH LIMITATION IS PROHIBITED BY APPLICABLE LAW.
+________________________________________
+20. INDEPENDENT RESPONSIBILITY
+You are solely responsible for your use of the Original Material and for determining whether your intended use complies with this License and applicable law.
+You are responsible for:
+•	testing your modifications;
+•	determining whether your implementation is safe;
+•	complying with applicable laws and regulations;
+•	obtaining any necessary third-party permissions;
+•	complying with applicable hardware, software, manufacturing, electrical, safety, export, import, and regulatory requirements; and
+•	ensuring that your use does not infringe the rights of any third party.
+The Copyright Holder assumes no responsibility for any implementation, modification, derivative work, product, or system created by another person.
+________________________________________
+21. INDEMNIFICATION
+To the maximum extent permitted by applicable law, you agree to indemnify and hold harmless Everett Joseph Pulskamp from claims, damages, liabilities, costs, and expenses arising from your unlawful use, unauthorized Commercial Use, modification, distribution, or other exploitation of the Original Material or a Derivative Work.
+This provision shall apply only to the extent permitted by applicable law.
+________________________________________
+22. SEVERABILITY
+If any provision of this License is determined to be invalid, unlawful, or unenforceable, that provision shall be enforced to the maximum extent permitted by applicable law and, if necessary, modified or severed to the minimum extent necessary.
+The remaining provisions shall continue in full force and effect.
+________________________________________
+23. NO WAIVER
+Failure by Everett Joseph Pulskamp to enforce any provision of this License shall not constitute a waiver of that provision or of the right to enforce it later.
+A waiver is effective only if expressly provided in writing by the Copyright Holder.
+A waiver of one violation shall not constitute a waiver of any other violation.
+________________________________________
+24. ENTIRE AGREEMENT
+This License constitutes the complete agreement governing the rights granted to you concerning the Original Material, except for separate written agreements expressly entered into by Everett Joseph Pulskamp.
+Any additional or conflicting terms shall not modify this License unless expressly accepted in writing by the Copyright Holder.
+________________________________________
+25. MODIFICATIONS TO THIS LICENSE
+Everett Joseph Pulskamp may publish new versions of this License for future distributions of the Original Material.
+Unless expressly stated otherwise, the version of this License accompanying a particular copy or release of the Original Material governs that copy or release.
+Previously granted rights shall not be retroactively expanded by a later version of this License.
+________________________________________
+26. GOVERNING LAW
+This License shall be interpreted and enforced in accordance with the laws of the jurisdiction specified below, without regard to conflict-of-law principles:
+Governing Jurisdiction: [STATE / COUNTRY]
+To the extent legally permitted, disputes arising from this License shall be subject to the courts having appropriate jurisdiction in:
+Venue: [COUNTY / STATE / COUNTRY]
+Nothing in this section prevents the Copyright Holder from seeking emergency, injunctive, equitable, or other relief in any court having lawful jurisdiction.
+________________________________________
+27. LEGAL REMEDIES
+A violation of this License may constitute copyright infringement, breach of contract, or another actionable violation under applicable law.
+Nothing in this License limits the Copyright Holder's ability to seek any remedy available under applicable law, including, where available:
+•	injunctive relief;
+•	equitable relief;
+•	damages;
+•	statutory damages;
+•	actual damages;
+•	recovery of profits;
+•	costs;
+•	attorneys' fees where legally available; and
+•	any other lawful remedy.
+The Copyright Holder reserves all such rights and remedies.
+________________________________________
+28. ACCEPTANCE
+By exercising any rights granted under this License, including copying, modifying, distributing, publishing, or creating a Derivative Work from the Original Material, you acknowledge that you have read, understood, and agreed to be bound by the terms of this License.
+If you do not agree to these terms, you are not granted permission to exercise the rights granted by this License.
+Nothing in this section restricts rights that cannot lawfully be restricted under applicable law.
+________________________________________
+29. COPYRIGHT NOTICE
+Copyright © 2026 Everett Joseph Pulskamp. All rights reserved.
+All rights are reserved except as expressly provided under the T3k_9 Systemz NON-COMMERCIAL ATTRIBUTION LICENSE v1.0.
+Original Project: BPS-analyzer
+Original Repository: https://github.com/T3k-9-Systemz/BPS-analyzer
+Copyright Holder: Everett Joseph Pulskamp
+GitHub Username: T3k-9-Systemz
+Project / Brand: T3k_9 Systemz
+________________________________________
+SUMMARY OF PERMISSIONS
+For convenience only, and without modifying the legally binding terms above:
+
+Use	                                                                Permission
+_____________________________________________________________________________________
+View the repository	                                                ✅ Permitted
+Study the project	                                                ✅ Permitted
+Personal use	                                                    ✅ Permitted
+Modify the project	                                                ✅ Permitted
+Build upon the project	                                            ✅ Permitted
+Create derivative works	                                            ✅ Permitted
+Share non-commercial derivatives	                                ✅ Permitted
+Give away non-commercial copies	                                    ✅ Permitted
+Commercial use	                                                    ❌ Prohibited
+Sell the original work	                                            ❌ Prohibited
+Sell derivative works	                                            ❌ Prohibited
+Commercial manufacturing	                                        ❌ Prohibited
+Monetize a derivative	                                            ❌ Prohibited
+Remove attribution	                                                ❌ Prohibited
+Claim the original work as your own	                                ❌ Prohibited
+Remove copyright/license notices	                                ❌ Prohibited
+Grant commercial rights to others	                                ❌ Prohibited
+Commercial use with Everett Joseph Pulskamp's written permission	✅ Permitted
+
+END OF LICENSE
+
